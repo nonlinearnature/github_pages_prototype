@@ -30,7 +30,8 @@ github_username:  nonlinearnature
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# plugins:
+plugins:
+  - jekyll-include-cache
 #  - jekyll-feed
 
 # Exclude from processing.
