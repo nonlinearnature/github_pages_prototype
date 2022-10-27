@@ -28,7 +28,8 @@ twitter_username: NonlinearNature
 github_username:  nonlinearnature
 
 # Build settings
-theme: minima
+markdown: kramdown
+remote_theme: tyler-abbot/DrJekyll
 plugins:
   - jekyll-feed
 
