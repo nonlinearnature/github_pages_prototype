@@ -29,7 +29,7 @@ github_username:  nonlinearnature
 
 # Build settings
 markdown: kramdown
-# remote_theme: tyler-abbot/DrJekyll
+theme: tyler-abbot/DrJekyll
 # plugins:
 #  - jekyll-feed
 
