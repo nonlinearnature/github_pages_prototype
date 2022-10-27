@@ -23,7 +23,7 @@ email: edeyle@bu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   An Inductive Approach to Applied Complexity Science
 baseurl: / # the subpath of your site, e.g. /blog
-url: https://nonlinear nature.github.io
+url: https://nonlinearnature.github.io
 twitter_username: NonlinearNature
 github_username:  nonlinearnature
 
